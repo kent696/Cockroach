@@ -58,6 +58,7 @@ html {
   /*程式設計*/
 .code-button {
     background-color:  #E93EFF;
+    width: 250px; 
     border: none;
     color: rgb(0, 0, 0);
     padding: 10px 20px;
